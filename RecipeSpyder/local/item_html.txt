@@ -1,0 +1,2805 @@
+<!DOCTYPE html><html class="APPLICATION_ENV_production h-100" lang="en">
+<head>
+    <title>Items / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.</title>    <meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta name="og:image" content="https://static.satisfactory-calculator.com/img/favicons/android-chrome-192x192.png" >    <meta name="description" content="Satisfactory helper to calculate your production needs. | Gaming Tool/Wiki/Database to empower the players." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link href="/css/main.css?v=1646915785" rel="stylesheet" type="text/css" />
+    <link href="/css/languages.css?v=1553680052" rel="stylesheet" type="text/css" />
+    <link href="/css/fontAwesome.css?v=1594037138" rel="stylesheet" type="text/css" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <link rel="apple-touch-icon" sizes="57x57" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://static.satisfactory-calculator.com/img/favicons/apple-touch-icon-180x180.png" />
+    <link rel="icon" type="image/png" href="https://static.satisfactory-calculator.com/img/favicons/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="https://static.satisfactory-calculator.com/img/favicons/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://static.satisfactory-calculator.com/img/favicons/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="https://static.satisfactory-calculator.com/img/favicons/android-chrome-192x192.png" sizes="192x192" />
+    <link rel="manifest" href="/img/favicons/manifest.json" />
+    <link rel="shortcut icon" href="https://static.satisfactory-calculator.com/img/favicons/favicon.ico" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="https://static.satisfactory-calculator.com/img/favicons/mstile-144x144.png" />
+    <meta name="theme-color" content="#FFFFFF" />
+
+    <meta property="og:url" content="https://satisfactory-calculator.com" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="[SCIM] Satisfactory - Calculator" />
+    <meta property="og:description" content="Satisfactory helper to calculate your production needs. | Gaming Tool/Wiki/Database to empower the players." />
+
+    <meta name="google-site-verification" content="bQlQ8CNO2TnlxdUkv3kDxxXGECyuVtF4siaUQKmTRB4" />
+
+                    <link rel="canonical" href="https://satisfactory-calculator.com/en/items" hreflang="en" />
+                <link rel="alternate" href="https://satisfactory-calculator.com/en/items" hreflang="en" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/cs/items" hreflang="cs" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/de/items" hreflang="de" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/es/items" hreflang="es" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/fr/items" hreflang="fr" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/he/items" hreflang="he" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/it/items" hreflang="it" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/ja/items" hreflang="ja" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/ko/items" hreflang="ko" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/pl/items" hreflang="pl" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/pt_BR/items" hreflang="pt" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/nl/items" hreflang="nl" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/ru/items" hreflang="ru" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/tr/items" hreflang="tr" />
+                    <link rel="alternate" href="https://satisfactory-calculator.com/zh/items" hreflang="zh" />
+    
+        
+        <!-- Venatus Ad Manager -->
+    <script src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript" data-site-id="6052048e337bfd28970d5998" data-mode="scan" async></script>
+    <!-- / Venatus Ad Manager -->
+    </head>
+<body class="d-flex flex-column h-100">
+    <header class="sticky-top">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand p-0" href="/">
+                                <img src="/img/calculatorLogo.png?v=1600155838" alt="[SCIM] Satisfactory - Calculator" title="[SCIM] Satisfactory - Calculator">
+                            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fas fa-cog mr-1"></i>Planners</a>
+                        <div class="dropdown-menu">
+                            <a href="/en/planners/production" class="dropdown-item ">
+                                <i class="fas fa-user-hard-hat mr-1"></i>
+                                Production planner                            </a>
+                            <a href="/en/planners/power" class="dropdown-item ">
+                                <i class="fas fa-bolt mr-1"></i>
+                                Power planner                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a href="/en/interactive-map" class="nav-link">
+                            <i class="fas fa-map-marked-alt mr-1"></i>
+                            Interactive map                        </a>
+                    </li>
+                    <li class="nav-item dropdown active">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Game resources</a>
+                        <div class="dropdown-menu">
+                            <a href="/en/buildings" class="dropdown-item ">
+                                <i class="fas fa-industry-alt mr-1"></i>
+                                Buildings                            </a>
+                            <a href="/en/architecture" class="dropdown-item ">
+                                <i class="fas fa-archway mr-1"></i>
+                                Architecture                            </a>
+                            <a href="/en/structures" class="dropdown-item ">
+                                <i class="fas fa-box mr-1"></i>
+                                Structures                            </a>
+                            <a href="/en/items" class="dropdown-item active">
+                                <i class="fas fa-tools mr-1"></i>
+                                Items                            </a>
+                            <a href="/en/tools" class="dropdown-item ">
+                                <i class="fas fa-hammer mr-1"></i>
+                                Tools                            </a>
+                            <a href="/en/vehicles" class="dropdown-item ">
+                                <i class="fas fa-truck-monster mr-1"></i>
+                                Vehicles                            </a>
+                            <a href="/en/fauna" class="dropdown-item ">
+                                <i class="fas fa-paw mr-1"></i>
+                                Fauna                            </a>
+                            <a href="/en/statues" class="dropdown-item ">
+                                <i class="fas fa-gingerbread-man mr-1"></i>
+                                Statues                            </a>
+                            <div class="dropdown-divider"></div>
+                            <a href="/en/ficsmas" class="dropdown-item ">
+                                <i class="fas fa-tree-christmas mr-1"></i>
+                                FICS*MAS Holiday Event                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Game progression</a>
+                        <div class="dropdown-menu">
+                            <a href="/en/milestones" class="dropdown-item ">
+                                <i class="fas fa-flask mr-1"></i>
+                                Milestones                            </a>
+                            <a href="/en/mam" class="dropdown-item ">
+                                <i class="fas fa-radar mr-1"></i>
+                                M.A.M.                            </a>
+                            <a href="/en/awesome-shop" class="dropdown-item ">
+                                <i class="fas fa-shopping-cart mr-1"></i>
+                                AWESOME Shop                            </a>
+                            <a href="/en/tetromino-leader-board" class="dropdown-item ">
+                                <i class="fas fa-game-board-alt mr-1"></i>
+                                FICSIT Productive Packer Deluxe | World Leaderboard                            </a>
+                        </div>
+                    </li>
+                    <li class="nav-item ">
+                        <a href="/en/blueprints" class="nav-link">
+                            <i class="fas fa-microchip mr-1"></i>
+                            Blueprints                        </a>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-gavel mr-1"></i>
+                            Workbench                        </a>
+                        <div class="dropdown-menu">
+                            <a href="/en/mods" class="dropdown-item ">
+                                <i class="fas fa-wrench mr-1"></i>
+                                Mods                            </a>
+                            <a href="/en/workbench/color" class="dropdown-item ">
+                                <i class="fas fa-paint-roller mr-1"></i>
+                                Color converter                            </a>
+                            <a href="/en/hard-drives" class="dropdown-item ">
+                                <i class="fas fa-hdd mr-1"></i>
+                                Hard Drives                            </a>
+                            <a href="/en/balancers" class="dropdown-item ">
+                                <i class="fas fa-random mr-1"></i>
+                                Balancers                            </a>
+                        </div>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://twitter.com/AnthorNet" target="_blank" title="Twitter" data-hover="tooltip">
+                            <i class="fab fa-twitter mr-1"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://discord.gg/0sFOD6GxFZRc1ad0" target="_blank" title="Discord server" data-hover="tooltip">
+                            <i class="fab fa-discord mr-1"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown flex-grow-0 flex-shrink-1">
+                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button">
+                            <span class="lang-sm" lang="en"></span>
+                            <span class="d-inline d-lg-none d-xl-none">Languages</span>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                                                                                                                                            <a href="/cs/items" class="dropdown-item">
+                                <span class="lang-sm" lang="cs"></span> čeština                                <small><em>(Czech)</em></small>
+                            </a>
+                                                                                                                <a href="/de/items" class="dropdown-item">
+                                <span class="lang-sm" lang="de"></span> Deutsch                                <small><em>(German)</em></small>
+                            </a>
+                                                                                                                <a href="/es/items" class="dropdown-item">
+                                <span class="lang-sm" lang="es"></span> Español                                <small><em>(Spanish)</em></small>
+                            </a>
+                                                                                                                <a href="/fr/items" class="dropdown-item">
+                                <span class="lang-sm" lang="fr"></span> Français                                <small><em>(French)</em></small>
+                            </a>
+                                                                                                                <a href="/he/items" class="dropdown-item">
+                                <span class="lang-sm" lang="he"></span> עברית                                <small><em>(Hebrew)</em></small>
+                            </a>
+                                                                                                                <a href="/it/items" class="dropdown-item">
+                                <span class="lang-sm" lang="it"></span> Italiano                                <small><em>(Italian)</em></small>
+                            </a>
+                                                                                                                <a href="/ja/items" class="dropdown-item">
+                                <span class="lang-sm" lang="ja"></span> 日本語                                <small><em>(Japanese)</em></small>
+                            </a>
+                                                                                                                <a href="/ko/items" class="dropdown-item">
+                                <span class="lang-sm" lang="ko"></span> 한국어                                <small><em>(Korean)</em></small>
+                            </a>
+                                                                                                                <a href="/pl/items" class="dropdown-item">
+                                <span class="lang-sm" lang="pl"></span> Polski                                <small><em>(Polish)</em></small>
+                            </a>
+                                                                                                                <a href="/pt_BR/items" class="dropdown-item">
+                                <span class="lang-sm" lang="pt"></span> Português                                <small><em>(Portuguese)</em></small>
+                            </a>
+                                                                                                                <a href="/nl/items" class="dropdown-item">
+                                <span class="lang-sm" lang="nl"></span> Nederlands                                <small><em>(Dutch)</em></small>
+                            </a>
+                                                                                                                <a href="/ru/items" class="dropdown-item">
+                                <span class="lang-sm" lang="ru"></span> русский                                <small><em>(Russian)</em></small>
+                            </a>
+                                                                                                                <a href="/tr/items" class="dropdown-item">
+                                <span class="lang-sm" lang="tr"></span> Türkçe                                <small><em>(Turkish)</em></small>
+                            </a>
+                                                                                                                <a href="/zh/items" class="dropdown-item">
+                                <span class="lang-sm" lang="zh"></span> 中文                                <small><em>(Chinese)</em></small>
+                            </a>
+                                                                                </div>
+                    </li>
+                    <li class="nav-item dropdown flex-grow-0 flex-shrink-1">
+                        <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown" role="button">
+                            <i class="fas fa-user"></i>
+                                                                                </a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                                                    <a href="/en/user/sign/in" class="dropdown-item">
+                                Sign in                            </a>
+                            <a href="/en/user/sign/up" class="dropdown-item">
+                                Sign up                            </a>
+                                                </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    
+    <main role="main" class="py-3 flex-fill">
+        
+                                <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 mb-3">
+                    <div class="card">
+                        <div class="card-body text-center" id="responsiveAds-137696566"></div>
+                        <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b568e8fdeb39324f4b1f");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-137696566").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                    </div>                </div>
+            </div>
+        </div>
+                
+        <div class="container-fluid">
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Ores                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Stone_C/name/Limestone">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/Stone_256.png?v=1639649515" alt="Limestone" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Stone_C/name/Limestone">
+                            <strong>Limestone</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_OreIron_C/name/Iron+Ore">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_iron_new_256.png?v=1639649515" alt="Iron Ore" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_OreIron_C/name/Iron+Ore">
+                            <strong>Iron Ore</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_OreCopper_C/name/Copper+Ore">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_copper_new_256.png?v=1639649515" alt="Copper Ore" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_OreCopper_C/name/Copper+Ore">
+                            <strong>Copper Ore</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_OreGold_C/name/Caterium+Ore">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CateriumOre_256.png?v=1639649515" alt="Caterium Ore" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_OreGold_C/name/Caterium+Ore">
+                            <strong>Caterium Ore</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Coal_C/name/Coal">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CoalOre_256.png?v=1639649515" alt="Coal" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Coal_C/name/Coal">
+                            <strong>Coal</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_RawQuartz_C/name/Raw+Quartz">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_QuartzCrystal_256.png?v=1639649515" alt="Raw Quartz" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_RawQuartz_C/name/Raw+Quartz">
+                            <strong>Raw Quartz</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Sulfur_C/name/Sulfur">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/Sulfur_256.png?v=1639649515" alt="Sulfur" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Sulfur_C/name/Sulfur">
+                            <strong>Sulfur</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_OreBauxite_C/name/Bauxite">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Bauxite_256.png?v=1639649515" alt="Bauxite" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_OreBauxite_C/name/Bauxite">
+                            <strong>Bauxite</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SAM_C/name/S.A.M.+Ore">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/SAMOre_256.png?v=1639649515" alt="S.A.M. Ore" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SAM_C/name/S.A.M.+Ore">
+                            <strong>S.A.M. Ore</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_OreUranium_C/name/Uranium">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_UraniumOre_256.png?v=1639649515" alt="Uranium" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_OreUranium_C/name/Uranium">
+                            <strong>Uranium</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1570742363"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1570742363").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Ingots                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_IronIngot_C/name/Iron+Ingot">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_IronIngot_256.png?v=1639649515" alt="Iron Ingot" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_IronIngot_C/name/Iron+Ingot">
+                            <strong>Iron Ingot</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CopperIngot_C/name/Copper+Ingot">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CopperIngot_256.png?v=1639649514" alt="Copper Ingot" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CopperIngot_C/name/Copper+Ingot">
+                            <strong>Copper Ingot</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_GoldIngot_C/name/Caterium+Ingot">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CateriumIngot_256.png?v=1639649514" alt="Caterium Ingot" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_GoldIngot_C/name/Caterium+Ingot">
+                            <strong>Caterium Ingot</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SteelIngot_C/name/Steel+Ingot">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SteelIngot_256.png?v=1639649515" alt="Steel Ingot" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SteelIngot_C/name/Steel+Ingot">
+                            <strong>Steel Ingot</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminumIngot_C/name/Aluminum+Ingot">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AluminiumIngot_256.png?v=1639649514" alt="Aluminum Ingot" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminumIngot_C/name/Aluminum+Ingot">
+                            <strong>Aluminum Ingot</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-176574603"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-176574603").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Minerals                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Cement_C/name/Concrete">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Concrete_256.png?v=1639649514" alt="Concrete" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Cement_C/name/Concrete">
+                            <strong>Concrete</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_QuartzCrystal_C/name/Quartz+Crystal">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_QuartzResource_256.png?v=1639649515" alt="Quartz Crystal" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_QuartzCrystal_C/name/Quartz+Crystal">
+                            <strong>Quartz Crystal</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Silica_C/name/Silica">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Silica_256.png?v=1639649515" alt="Silica" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Silica_C/name/Silica">
+                            <strong>Silica</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CopperDust_C/name/Copper+Powder">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CopperDust_256.png?v=1639649514" alt="Copper Powder" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CopperDust_C/name/Copper+Powder">
+                            <strong>Copper Powder</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PolymerResin_C/name/Polymer+Resin">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PolymerResin_256.png?v=1639649515" alt="Polymer Resin" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PolymerResin_C/name/Polymer+Resin">
+                            <strong>Polymer Resin</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PetroleumCoke_C/name/Petroleum+Coke">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PetroleumCoke_256.png?v=1639649515" alt="Petroleum Coke" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PetroleumCoke_C/name/Petroleum+Coke">
+                            <strong>Petroleum Coke</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminumScrap_C/name/Aluminum+Scrap">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AluminiumScrap_256.png?v=1639649514" alt="Aluminum Scrap" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminumScrap_C/name/Aluminum+Scrap">
+                            <strong>Aluminum Scrap</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1210525215"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1210525215").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Liquids                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Water_C/name/Water">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/LiquidWater_Pipe_256.png?v=1639649515" alt="Water" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Water_C/name/Water">
+                            <strong>Water</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_LiquidOil_C/name/Crude+Oil">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/LiquidOil_Pipe_256.png?v=1639649515" alt="Crude Oil" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_LiquidOil_C/name/Crude+Oil">
+                            <strong>Crude Oil</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_HeavyOilResidue_C/name/Heavy+Oil+Residue">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidHeavyOilResidue_Pipe_256.png?v=1639649514" alt="Heavy Oil Residue" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_HeavyOilResidue_C/name/Heavy+Oil+Residue">
+                            <strong>Heavy Oil Residue</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_LiquidFuel_C/name/Fuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidFuel_Pipe_256.png?v=1639649514" alt="Fuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_LiquidFuel_C/name/Fuel">
+                            <strong>Fuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_LiquidBiofuel_C/name/Liquid+Biofuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidBiofuel_Pipe_256.png?v=1639649514" alt="Liquid Biofuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_LiquidBiofuel_C/name/Liquid+Biofuel">
+                            <strong>Liquid Biofuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_LiquidTurboFuel_C/name/Turbofuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidTurboFuel_Pipe_256.png?v=1639649515" alt="Turbofuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_LiquidTurboFuel_C/name/Turbofuel">
+                            <strong>Turbofuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminaSolution_C/name/Alumina+Solution">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/LiquidAlumina_Pipe_256.png?v=1639649514" alt="Alumina Solution" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminaSolution_C/name/Alumina+Solution">
+                            <strong>Alumina Solution</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SulfuricAcid_C/name/Sulfuric+Acid">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidSulfuricAcid_Pipe_256.png?v=1639649515" alt="Sulfuric Acid" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SulfuricAcid_C/name/Sulfuric+Acid">
+                            <strong>Sulfuric Acid</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NitricAcid_C/name/Nitric+Acid">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NitricAcid_256.png?v=1639649515" alt="Nitric Acid" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NitricAcid_C/name/Nitric+Acid">
+                            <strong>Nitric Acid</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1792282293"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1792282293").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Gas                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NitrogenGas_C/name/Nitrogen+Gas">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NitricAcid_256.png?v=1639649515" alt="Nitrogen Gas" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NitrogenGas_C/name/Nitrogen+Gas">
+                            <strong>Nitrogen Gas</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1945747009"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1945747009").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Standard Parts                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_IronRod_C/name/Iron+Rod">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_IronRods_256.png?v=1639649515" alt="Iron Rod" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_IronRod_C/name/Iron+Rod">
+                            <strong>Iron Rod</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_IronScrew_C/name/Screw">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_IronScrews_256.png?v=1639649515" alt="Screw" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_IronScrew_C/name/Screw">
+                            <strong>Screw</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_IronPlate_C/name/Iron+Plate">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_IronPlates_256.png?v=1639649515" alt="Iron Plate" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_IronPlate_C/name/Iron+Plate">
+                            <strong>Iron Plate</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_IronPlateReinforced_C/name/Reinforced+Iron+Plate">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ReinforcedIronPlates_256.png?v=1639649515" alt="Reinforced Iron Plate" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_IronPlateReinforced_C/name/Reinforced+Iron+Plate">
+                            <strong>Reinforced Iron Plate</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CopperSheet_C/name/Copper+Sheet">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CopperSheet_256.png?v=1639649514" alt="Copper Sheet" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CopperSheet_C/name/Copper+Sheet">
+                            <strong>Copper Sheet</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminumPlate_C/name/Alclad+Aluminum+Sheet">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AluminiumSheet_256.png?v=1639649514" alt="Alclad Aluminum Sheet" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminumPlate_C/name/Alclad+Aluminum+Sheet">
+                            <strong>Alclad Aluminum Sheet</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminumCasing_C/name/Aluminum+Casing">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AluminiumCasing_256.png?v=1639649514" alt="Aluminum Casing" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminumCasing_C/name/Aluminum+Casing">
+                            <strong>Aluminum Casing</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SteelPipe_C/name/Steel+Pipe">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SteelPipe_256.png?v=1639649515" alt="Steel Pipe" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SteelPipe_C/name/Steel+Pipe">
+                            <strong>Steel Pipe</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SteelPlate_C/name/Steel+Beam">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SteelBeam_256.png?v=1639649515" alt="Steel Beam" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SteelPlate_C/name/Steel+Beam">
+                            <strong>Steel Beam</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SteelPlateReinforced_C/name/Encased+Industrial+Beam">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_EncasedSteelBeam_256.png?v=1639649515" alt="Encased Industrial Beam" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SteelPlateReinforced_C/name/Encased+Industrial+Beam">
+                            <strong>Encased Industrial Beam</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ModularFrame_C/name/Modular+Frame">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ModularFrame_256.png?v=1639649515" alt="Modular Frame" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ModularFrame_C/name/Modular+Frame">
+                            <strong>Modular Frame</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ModularFrameHeavy_C/name/Heavy+Modular+Frame">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ModularFrameHeavy_256.png?v=1639649515" alt="Heavy Modular Frame" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ModularFrameHeavy_C/name/Heavy+Modular+Frame">
+                            <strong>Heavy Modular Frame</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ModularFrameFused_C/name/Fused+Modular+Frame">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_FusedModularFrame_256.png?v=1639649515" alt="Fused Modular Frame" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ModularFrameFused_C/name/Fused+Modular+Frame">
+                            <strong>Fused Modular Frame</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Fabric_C/name/Fabric">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Fabric_256.png?v=1639649514" alt="Fabric" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Fabric_C/name/Fabric">
+                            <strong>Fabric</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Plastic_C/name/Plastic">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Plastic_256.png?v=1639649515" alt="Plastic" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Plastic_C/name/Plastic">
+                            <strong>Plastic</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Rubber_C/name/Rubber">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Rubber_256.png?v=1639649515" alt="Rubber" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Rubber_C/name/Rubber">
+                            <strong>Rubber</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1009895174"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1009895174").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Industrial Parts                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Rotor_C/name/Rotor">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Rotor_256.png?v=1639649515" alt="Rotor" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Rotor_C/name/Rotor">
+                            <strong>Rotor</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Stator_C/name/Stator">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Stator_256.png?v=1639649515" alt="Stator" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Stator_C/name/Stator">
+                            <strong>Stator</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Battery_C/name/Battery">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Battery_256.png?v=1639649514" alt="Battery" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Battery_C/name/Battery">
+                            <strong>Battery</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Motor_C/name/Motor">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Engine_256.png?v=1639649515" alt="Motor" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Motor_C/name/Motor">
+                            <strong>Motor</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_AluminumPlateReinforced_C/name/Heat+Sink">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Heatsink_256.png?v=1639649514" alt="Heat Sink" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_AluminumPlateReinforced_C/name/Heat+Sink">
+                            <strong>Heat Sink</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CoolingSystem_C/name/Cooling+System">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CoolingSystem_256.png?v=1639649514" alt="Cooling System" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CoolingSystem_C/name/Cooling+System">
+                            <strong>Cooling System</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_MotorLightweight_C/name/Turbo+Motor">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_TurboMotor_256.png?v=1639649515" alt="Turbo Motor" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_MotorLightweight_C/name/Turbo+Motor">
+                            <strong>Turbo Motor</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-784449841"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-784449841").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Electronics                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Wire_C/name/Wire">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Wire_256.png?v=1639649515" alt="Wire" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Wire_C/name/Wire">
+                            <strong>Wire</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Cable_C/name/Cable">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Cables_256.png?v=1639649514" alt="Cable" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Cable_C/name/Cable">
+                            <strong>Cable</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_HighSpeedWire_C/name/Quickwire">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Quickwire_256.png?v=1639649515" alt="Quickwire" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_HighSpeedWire_C/name/Quickwire">
+                            <strong>Quickwire</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CircuitBoard_C/name/Circuit+Board">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CircuitBoard_256.png?v=1639649514" alt="Circuit Board" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CircuitBoard_C/name/Circuit+Board">
+                            <strong>Circuit Board</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CircuitBoardHighSpeed_C/name/AI+Limiter">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AILimiter_256.png?v=1639649514" alt="AI Limiter" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CircuitBoardHighSpeed_C/name/AI+Limiter">
+                            <strong>AI Limiter</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_HighSpeedConnector_C/name/High-Speed+Connector">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_HighSpeedConnector_256.png?v=1639649514" alt="High-Speed Connector" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_HighSpeedConnector_C/name/High-Speed+Connector">
+                            <strong>High-Speed Connector</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-954746206"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-954746206").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Communications                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Computer_C/name/Computer">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Computer_256.png?v=1639649514" alt="Computer" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Computer_C/name/Computer">
+                            <strong>Computer</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ComputerSuper_C/name/Supercomputer">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SuperComputer_256.png?v=1639649514" alt="Supercomputer" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ComputerSuper_C/name/Supercomputer">
+                            <strong>Supercomputer</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ComputerQuantum_C/name/Quantum+Computer">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_QuantumComputer_256.png?v=1639649514" alt="Quantum Computer" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ComputerQuantum_C/name/Quantum+Computer">
+                            <strong>Quantum Computer</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ModularFrameLightweight_C/name/Radio+Control+Unit">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_RadioControlUnit_256.png?v=1639649515" alt="Radio Control Unit" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ModularFrameLightweight_C/name/Radio+Control+Unit">
+                            <strong>Radio Control Unit</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CrystalOscillator_C/name/Crystal+Oscillator">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CrystalOscillator_256.png?v=1639649514" alt="Crystal Oscillator" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CrystalOscillator_C/name/Crystal+Oscillator">
+                            <strong>Crystal Oscillator</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_QuantumOscillator_C/name/Superposition+Oscillator">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SuperPositionOscillator_256.png?v=1639649515" alt="Superposition Oscillator" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_QuantumOscillator_C/name/Superposition+Oscillator">
+                            <strong>Superposition Oscillator</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-2002844543"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-2002844543").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Containers                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_FluidCanister_C/name/Empty+Canister">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_EmptyCannister_256.png?v=1639649514" alt="Empty Canister" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_FluidCanister_C/name/Empty+Canister">
+                            <strong>Empty Canister</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_GasTank_C/name/Empty+Fluid+Tank">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PressureTank_256.png?v=1639649514" alt="Empty Fluid Tank" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_GasTank_C/name/Empty+Fluid+Tank">
+                            <strong>Empty Fluid Tank</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PressureConversionCube_C/name/Pressure+Conversion+Cube">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ConversionCube_256.png?v=1639649515" alt="Pressure Conversion Cube" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PressureConversionCube_C/name/Pressure+Conversion+Cube">
+                            <strong>Pressure Conversion Cube</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedWater_C/name/Packaged+Water">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PackagedWater_256.png?v=1639649515" alt="Packaged Water" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedWater_C/name/Packaged+Water">
+                            <strong>Packaged Water</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedAlumina_C/name/Packaged+Alumina+Solution">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PackagedAluminaSolution_256.png?v=1639649514" alt="Packaged Alumina Solution" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedAlumina_C/name/Packaged+Alumina+Solution">
+                            <strong>Packaged Alumina Solution</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedSulfuricAcid_C/name/Packaged+Sulfuric+Acid">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PckagedSulphuricAcid_256.png?v=1639649515" alt="Packaged Sulfuric Acid" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedSulfuricAcid_C/name/Packaged+Sulfuric+Acid">
+                            <strong>Packaged Sulfuric Acid</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedNitricAcid_C/name/Packaged+Nitric+Acid">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PackagedNitricAcid_256.png?v=1639649515" alt="Packaged Nitric Acid" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedNitricAcid_C/name/Packaged+Nitric+Acid">
+                            <strong>Packaged Nitric Acid</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedNitrogenGas_C/name/Packaged+Nitrogen+Gas">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PackagedNitrogen_256.png?v=1639649515" alt="Packaged Nitrogen Gas" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedNitrogenGas_C/name/Packaged+Nitrogen+Gas">
+                            <strong>Packaged Nitrogen Gas</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-639776269"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-639776269").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Fuels                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Leaves_C/name/Leaves">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Leaves_256.png?v=1639649514" alt="Leaves" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Leaves_C/name/Leaves">
+                            <strong>Leaves</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Mycelia_C/name/Mycelia">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Mycelia_256.png?v=1639649514" alt="Mycelia" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Mycelia_C/name/Mycelia">
+                            <strong>Mycelia</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_FlowerPetals_C/name/Flower+Petals">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/FlowerPetals_Final_256.png?v=1639649514" alt="Flower Petals" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_FlowerPetals_C/name/Flower+Petals">
+                            <strong>Flower Petals</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Wood_C/name/Wood">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Wood_256.png?v=1639649514" alt="Wood" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Wood_C/name/Wood">
+                            <strong>Wood</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_GenericBiomass_C/name/Biomass">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Biomass_Final_256.png?v=1639649514" alt="Biomass" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_GenericBiomass_C/name/Biomass">
+                            <strong>Biomass</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CompactedCoal_C/name/Compacted+Coal">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_CompactedCoal_256.png?v=1639649514" alt="Compacted Coal" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CompactedCoal_C/name/Compacted+Coal">
+                            <strong>Compacted Coal</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedOil_C/name/Packaged+Oil">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/Oil_256.png?v=1639649515" alt="Packaged Oil" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedOil_C/name/Packaged+Oil">
+                            <strong>Packaged Oil</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedOilResidue_C/name/Packaged+Heavy+Oil+Residue">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/OilResidue_256.png?v=1639649515" alt="Packaged Heavy Oil Residue" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedOilResidue_C/name/Packaged+Heavy+Oil+Residue">
+                            <strong>Packaged Heavy Oil Residue</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Biofuel_C/name/Solid+Biofuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SolidBiofuel_256.png?v=1639649515" alt="Solid Biofuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Biofuel_C/name/Solid+Biofuel">
+                            <strong>Solid Biofuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Fuel_C/name/Packaged+Fuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Fuel_256.png?v=1639649514" alt="Packaged Fuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Fuel_C/name/Packaged+Fuel">
+                            <strong>Packaged Fuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PackagedBiofuel_C/name/Packaged+Liquid+Biofuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_LiquidBiofuel_256.png?v=1639649515" alt="Packaged Liquid Biofuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PackagedBiofuel_C/name/Packaged+Liquid+Biofuel">
+                            <strong>Packaged Liquid Biofuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_TurboFuel_C/name/Packaged+Turbofuel">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_TurboFuel_256.png?v=1639649515" alt="Packaged Turbofuel" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_TurboFuel_C/name/Packaged+Turbofuel">
+                            <strong>Packaged Turbofuel</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NuclearFuelRod_C/name/Uranium+Fuel+Rod">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NuclearFuelRod_256.png?v=1639649515" alt="Uranium Fuel Rod" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NuclearFuelRod_C/name/Uranium+Fuel+Rod">
+                            <strong>Uranium Fuel Rod</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PlutoniumFuelRod_C/name/Plutonium+Fuel+Rod">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PlutoniumFuelRod_256.png?v=1639649515" alt="Plutonium Fuel Rod" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PlutoniumFuelRod_C/name/Plutonium+Fuel+Rod">
+                            <strong>Plutonium Fuel Rod</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1477706310"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1477706310").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Consumed                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Gunpowder_C/name/Black+Powder">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Gunpowder_256.png?v=1639649514" alt="Black Powder" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Gunpowder_C/name/Black+Powder">
+                            <strong>Black Powder</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NobeliskExplosive_C/name/Nobelisk">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Explosive_256.png?v=1639649515" alt="Nobelisk" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NobeliskExplosive_C/name/Nobelisk">
+                            <strong>Nobelisk</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Filter_C/name/Gas+Filter">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_GasMaskFilter_256.png?v=1639649514" alt="Gas Filter" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Filter_C/name/Gas+Filter">
+                            <strong>Gas Filter</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ColorCartridge_C/name/Color+Cartridge">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ColorCartridge_256.png?v=1639649514" alt="Color Cartridge" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ColorCartridge_C/name/Color+Cartridge">
+                            <strong>Color Cartridge</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CartridgeStandard_C/name/Rifle+Cartridge">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/Rifle_Magazine_256.png?v=1639649514" alt="Rifle Cartridge" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CartridgeStandard_C/name/Rifle+Cartridge">
+                            <strong>Rifle Cartridge</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpikedRebar_C/name/Spiked+Rebar">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SpikedRebar_256.png?v=1639649515" alt="Spiked Rebar" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpikedRebar_C/name/Spiked+Rebar">
+                            <strong>Spiked Rebar</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/BP_EquipmentDescriptorBeacon_C/name/Beacon">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Beacon_256.png?v=1639649514" alt="Beacon" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/BP_EquipmentDescriptorBeacon_C/name/Beacon">
+                            <strong>Beacon</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_HazmatFilter_C/name/Iodine+Infused+Filter">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_HazmatFilter_256.png?v=1639649515" alt="Iodine Infused Filter" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_HazmatFilter_C/name/Iodine+Infused+Filter">
+                            <strong>Iodine Infused Filter</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-193359898"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-193359898").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Nuclear                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ElectromagneticControlRod_C/name/Electromagnetic+Control+Rod">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ElectromagneticControlRod_256.png?v=1639649514" alt="Electromagnetic Control Rod" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ElectromagneticControlRod_C/name/Electromagnetic+Control+Rod">
+                            <strong>Electromagnetic Control Rod</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_UraniumCell_C/name/Encased+Uranium+Cell">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NuclearCell_256.png?v=1639649515" alt="Encased Uranium Cell" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_UraniumCell_C/name/Encased+Uranium+Cell">
+                            <strong>Encased Uranium Cell</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NonFissibleUranium_C/name/Non-fissile+Uranium">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NonFissileUranium_256.png?v=1639649515" alt="Non-fissile Uranium" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NonFissibleUranium_C/name/Non-fissile+Uranium">
+                            <strong>Non-fissile Uranium</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PlutoniumPellet_C/name/Plutonium+Pellet">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PlutoniumPellet_256.png?v=1639649515" alt="Plutonium Pellet" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PlutoniumPellet_C/name/Plutonium+Pellet">
+                            <strong>Plutonium Pellet</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PlutoniumCell_C/name/Encased+Plutonium+Cell">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_EncasedPlutoniumCell_256.png?v=1639649515" alt="Encased Plutonium Cell" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PlutoniumCell_C/name/Encased+Plutonium+Cell">
+                            <strong>Encased Plutonium Cell</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1236811403"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1236811403").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Waste                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_NuclearWaste_C/name/Uranium+Waste">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NuclearWaste_256.png?v=1639649515" alt="Uranium Waste" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_NuclearWaste_C/name/Uranium+Waste">
+                            <strong>Uranium Waste</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_PlutoniumWaste_C/name/Plutonium+Waste">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_PlutoniumWaste_256.png?v=1639649515" alt="Plutonium Waste" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_PlutoniumWaste_C/name/Plutonium+Waste">
+                            <strong>Plutonium Waste</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-2057609953"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-2057609953").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+        <div class="row">
+        <div class="col-12">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item active" aria-current="page">
+                        <i class="fas fa-tools mr-1"></i>
+                        Items                    </li>
+                    <li class="breadcrumb-item">
+                        Special                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Crystal_C/name/Blue+Power+Slug">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/PowerSlugGreen_256.png?v=1639649514" alt="Blue Power Slug" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Crystal_C/name/Blue+Power+Slug">
+                            <strong>Blue Power Slug</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Crystal_mk2_C/name/Yellow+Power+Slug">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/PowerSlugYellow_256.png?v=1639649514" alt="Yellow Power Slug" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Crystal_mk2_C/name/Yellow+Power+Slug">
+                            <strong>Yellow Power Slug</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_Crystal_mk3_C/name/Purple+Power+Slug">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/PowerSlugPurple_256.png?v=1639649514" alt="Purple Power Slug" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_Crystal_mk3_C/name/Purple+Power+Slug">
+                            <strong>Purple Power Slug</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_CrystalShard_C/name/Power+Shard">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/PowerShard_256.png?v=1639649514" alt="Power Shard" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_CrystalShard_C/name/Power+Shard">
+                            <strong>Power Shard</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_ResourceSinkCoupon_C/name/FICSIT+Coupon">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_Ficsit_Coupon_256.png?v=1639649515" alt="FICSIT Coupon" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_ResourceSinkCoupon_C/name/FICSIT+Coupon">
+                            <strong>FICSIT Coupon</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_1_C/name/Smart+Plating">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SpelevatorPart_1_256.png?v=1639649515" alt="Smart Plating" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_1_C/name/Smart+Plating">
+                            <strong>Smart Plating</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_2_C/name/Versatile+Framework">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SpelevatorPart_2_256.png?v=1639649515" alt="Versatile Framework" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_2_C/name/Versatile+Framework">
+                            <strong>Versatile Framework</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_3_C/name/Automated+Wiring">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/SpelevatorPart_3_256.png?v=1639649514" alt="Automated Wiring" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_3_C/name/Automated+Wiring">
+                            <strong>Automated Wiring</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_4_C/name/Modular+Engine">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SpelevatorPart_4_256.png?v=1639649515" alt="Modular Engine" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_4_C/name/Modular+Engine">
+                            <strong>Modular Engine</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_5_C/name/Adaptive+Control+Unit">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_SpelevatorPart_5_256.png?v=1639649514" alt="Adaptive Control Unit" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_5_C/name/Adaptive+Control+Unit">
+                            <strong>Adaptive Control Unit</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_7_C/name/Assembly+Director+System">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_AssemblyDirectorSystem_256.png?v=1639649514" alt="Assembly Director System" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_7_C/name/Assembly+Director+System">
+                            <strong>Assembly Director System</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_6_C/name/Magnetic+Field+Generator">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_MagneticFieldGenerator_256.png?v=1639649515" alt="Magnetic Field Generator" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_6_C/name/Magnetic+Field+Generator">
+                            <strong>Magnetic Field Generator</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_8_C/name/Thermal+Propulsion+Rocket">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_ThermalPropulsionRocket_256.png?v=1639649515" alt="Thermal Propulsion Rocket" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_8_C/name/Thermal+Propulsion+Rocket">
+                            <strong>Thermal Propulsion Rocket</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                <div class="col-6 col-sm-4 col-md-3 d-flex flex-column">
+            <div class="card mb-3 text-center flex-grow-1">
+                <div class="card-body">
+                    <a href="/en/items/detail/id/Desc_SpaceElevatorPart_9_C/name/Nuclear+Pasta">
+                        <img src="https://static.satisfactory-calculator.com/img/gameUpdate5/IconDesc_NuclearPasta_256.png?v=1639649515" alt="Nuclear Pasta" class="mb-3 img-fluid" />
+                    </a>
+                    <h6 class="m-0">
+                        <a href="/en/items/detail/id/Desc_SpaceElevatorPart_9_C/name/Nuclear+Pasta">
+                            <strong>Nuclear Pasta</strong>
+                        </a>
+                    </h6>
+                </div>
+            </div>
+        </div>
+                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+
+    <div class="row">
+        <div class="col-12 mb-3">
+            <div class="card">
+                    <div class="card-body text-center" id="responsiveAds-1252156642"></div>
+                    <script type="text/javascript">
+                window.top.__vm_add = window.top.__vm_add || [];
+                (function(success){
+                    if(window.document.readyState !== "loading"){success();}
+                    else{window.document.addEventListener("DOMContentLoaded", function(){success();});}
+                })(function(){
+                    let placement = document.createElement("div");
+                        placement.setAttribute("class", "vm-placement");
+
+                        if(window.innerWidth > 1000)
+                        {
+                            placement.setAttribute("data-id", "6058b571337bfd28970d5af6");
+                        }
+                        else
+                        {
+                            placement.setAttribute("data-id", "6058b552337bfd28970d5af2");
+                        }
+
+                    document.querySelector("#responsiveAds-1252156642").appendChild(placement);
+                    window.top.__vm_add.push(placement);
+                });
+                </script>
+                </div>        </div>
+    </div>
+    </div>
+    </main>
+
+    <footer class="footer py-3 bg-dark">
+        <div class="container-fluid">
+            <span class="text-muted">
+                An <a href="https://www.anthor.net/" target="_blank">AnthorNet</a> platform &copy; 2019-2022 | Gaming Tool/Wiki/Database to empower the players.<br />
+                The assets comes from Satisfactory or from websites created and owned by Coffee Stain Studios, who hold the copyright of Satisfactory. All trademarks and registered trademarks present in the image are proprietary to Coffee Stain Studios.
+            </span>
+        </div>
+    </footer>
+
+        <div class="vm-placement" data-id="6058b546337bfd28970d5af0" style="display:none"></div>    
+    <script type="text/javascript" src="/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="/js/popper-1.16.0.min.js"></script>
+    <script type="text/javascript" src="/js/bootstrap-4.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+    
+        <script
+        src="https://browser.sentry-cdn.com/5.27.6/bundle.min.js"
+        integrity="sha384-rtZLZkLLKTQnK3HpcN1IG6wMYrx+O3GraPVH74SyT/gzvTfX6O/XLR7Ww65yd1w+"
+        crossorigin="anonymous"
+    ></script>
+    <script type="text/javascript">
+        let SentryOptions = {
+            dsn: 'https://933a652b1a6948d182dd37063c82ebbb@sentry.cookyourbrain.com/3',
+            normalizeDepth: 15,
+            whitelistUrls: [/satisfactory-calculator\.com/],
+            ignoreErrors: [
+                // Cytoscape
+                'null is not an object (evaluating \'e.touchData.startPosition[0]\')',
+                'null is not an object (evaluating \'e.touchData.startPosition[q]\')',
+                // Ads
+                'SecurityError: Blocked a restricted frame with origin "https://satisfactory-calculator.com" from accessing another frame.',
+                'can\'t redefine non-configurable property "userAgent"',
+                'Can\'t execute code from a freed script',
+                'No error message',
+                'ResizeObserver loop limit exceeded',
+                'Failed to fetch',
+                'Window.getComputedStyle: Argument 1 is not an object.',
+                "Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.",
+                'aiv::err',
+                'Non-Error promise rejection captured with value: Utils::waitUntil: max iteration count reached',
+                // Random plugins/extensions
+                'Please use show on visible elements',
+                "Cannot read property '_avast_submit' of undefined",
+                'adsbygoogle.push() error: No slot size for availableWidth=0',
+                'can\'t redefine non-configurable property "fuckAdBlock"',
+                'top.GLOBALS',
+                'window.GM_getTab is not a function',
+                'a.getAdPos',
+                'NS_ERROR_NOT_INITIALIZED',
+                'Extension context invalidated.',
+                'AbortError: The operation was aborted.',
+                'AbortError: The play() request was interrupted by a call to pause().',
+                'AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+                // Facebook borked
+                'fb_xd_fragment',
+                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+                // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                'conduitPage'
+            ],
+            ignoreUrls: [
+                // Ads...
+                /hb-api\.omnitagjs\.com/i,
+                'https://cdn.adnxs.com/v/s/205/trk.js',
+                'https://cdn.flashtalking.com/pageFold/ftpagefold_v4.7.2.js',
+                /cdn\.exelator\.com/i,
+                /d1oykxszdrgjgl\.cloudfront\.net/i,
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome-extension:\/\//i, 'chrome-extension',
+                /^chrome:\/\//i,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+            ]
+        };
+        if (window.SENTRY_RELEASE && window.SENTRY_RELEASE.id)
+        {
+            SentryOptions.release = window.SENTRY_RELEASE.id;
+        }
+
+        Sentry.init(SentryOptions);
+    </script>
+    
+    <script type="text/javascript">
+    $(document).ready(function(){
+        if($.fn.tooltip)
+        {
+            $('body').tooltip({
+                selector: '[data-hover="tooltip"]'
+            });
+        }
+
+        if(Cookies.get('patreonModal') !== 'seen')
+        {
+            Cookies.set('patreonModal', 'seen', { expires: 30, secure: true });
+            setTimeout(function(){
+                $('#patreonModal').modal('show');
+            }, 1000);
+        };
+
+            });
+    </script>
+    <div class="modal fade" id="patreonModal" tabindex="-1" aria-labelledby="patreonModal" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Support me on Patreon!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-9">
+                            <p>
+                                <strong>Did you knew that you can support me on Patreon?</strong><br />
+                                As a freelancer, you can weight into my work more than you can think,<br />
+                                every single donation is time for me to do more awesome work for the community!
+                            </p>
+                            <p class="text-center">
+                                <strong><a href="https://www.patreon.com/EDSM" target="_blank">https://www.patreon.com/EDSM</a></strong>
+                            </p>
+                        </div>
+                        <div class="col-sm-3 text-right">
+                            <a href="https://www.patreon.com/EDSM" target="_blank">
+                                <img src="https://static.satisfactory-calculator.com/img/patreonLogo.png?v=2" alt="Support me on Patreon!" title="Support me on Patreon!" />
+                            </a>
+                        </div>
+                    </div>
+                    <hr class="mx-0 border-secondary" />
+                    <div class="row">
+                        <div class="col-sm-9">
+                            <p>
+                                Or buy me a beer on Paypal ;)
+                            </p>
+                        </div>
+                        <div class="col-sm-3 text-right">
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                                                <input type="hidden" name="custom" value="">
+                                                                <input type="hidden" name="hosted_button_id" value="6S86JSU96QKX8">
+                                <input type="hidden" name="notify_url" value="https://ads.anthor.net/ipn" />
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <script type="text/javascript">
+        var disableStr = 'ga-disable-UA-496332-24';
+        if(document.cookie.indexOf(disableStr + '=true') > -1)
+        {
+            window[disableStr] = true;
+        }
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-496332-24"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-496332-24');
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+        if(window.cookieconsent !== undefined && 'function' === typeof window.cookieconsent.initialise){
+            window.cookieconsent.initialise({
+              "palette": {
+                "popup": {
+                  "background": "#000"
+                },
+                "button": {
+                  "background": "#f1d600"
+                }
+              },
+              "content": {
+                "message": "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services."
+              }
+            });
+        }
+    });
+    </script>
+</body>
+</html>
